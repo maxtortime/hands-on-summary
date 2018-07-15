@@ -147,6 +147,6 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/macos,python,jupyternotebook
-ch02/datasets
+ch02/datasets
 
 *.log
